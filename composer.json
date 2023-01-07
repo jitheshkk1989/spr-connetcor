@@ -1,17 +1,17 @@
 {
-    "name": "vitalis/hello-composer",
-    "description": "A simple hello world composer package",
+    "name": "spr/spr-connetor",
+    "description": "We are introducing new connetor to connect with all services and applications inside and outside  organisations",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "Jithesh KK",
+            "email": "programmer@sunydiamonds.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"spr\\spr-connetor\\": "src/"}
     },
     "require": {}
 }
