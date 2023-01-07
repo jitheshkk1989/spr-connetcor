@@ -1,3 +1,3 @@
-# hello-composer
-A quick test composer package, published on Packagist
+# SPR-Connectors
+A PHP Connector to communicate with SPR eco-system and SPR Hubs
 # spr-connetcor
