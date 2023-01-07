@@ -1,7 +1,5 @@
 <?php 
-
-
-namespace spr\spr-connetor;
+namespace spr\sprconnetor;
 
 class Index
 {
